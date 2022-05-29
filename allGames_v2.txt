@@ -1,0 +1,32 @@
+title,product code,price,genre,platform,subgenre,rating
+Call of Duty: Vanguard,122334,64.95,shooter,PlayStation 4,Multiplayer - FPS,MA
+Lego Star Wars: The Skywalker Saga,293588,74,action and adventure,Nintendo Switch,NA,PG
+Call of Duty: Vanguard,122523,69.00,shooter,Xbox One,Multiplayer - FPS,MA
+Star Wars Jedi Knight Collection,9086978,49.99,action and adventure,Nintendo Switch,NA,M
+Rainbow six: extraction,948567,34.50,shooter,PC,Multiplayer - FPS,MA
+Elden Ring,2035790,84.90,action and adventure,Xbox Series X,NA,MA
+MotoGP20,74398759,54.95,sports,PC,racing,G
+A way out,784545,15.99,action and adventure,PC,NA,MA
+alien isolation,345434,43.99,action and adventure,PC,NA,MA
+LEGO Harry Potter Collection,2065890,39,action and adventure,Nintendo Switch,NA,G
+among us,235435,7.45,action and adventure,Xbox One,NA,PG
+DOOM Eternal,3948599,19.33,shooter,Nintendo Switch,Single player - FPS,R
+Fifa 21,48957389,49.00,sports,PC,soccer,G
+Demon Slayer Kimetsu No Yaiba The Hinokami Chronicles,1789423,34.99,combat,PlayStation 4,one on one,MA
+TRIANGLE STRATEGY,1534534,64,role playing,Nintendo Switch,NA,M
+Injustice 2 - Standard Edition,8425095,69.95,combat,PC,one on one,MA
+DiRT Rally 2.0 (Windows),483502349,29.95,sports,PC,racing,G
+Deus Ex: Mankind Divided,728937487,11.99,shooter,Xbox One,Single player - TPS,MA
+Call of Duty: Black Ops Cold War,9384758,99.95,shooter,PlayStation 4,Single player - FPS,MA
+Far Cry 5,8992334,15.35,shooter,PC,Single player - FPS,MA
+Gran Turismo 7,23589734,109,sports,PlayStation 5,racing,G
+Pokemon Violet,5238598,84,role playing,Nintendo Switch,NA,NA
+phoenix point,109539,89.95,action and adventure,Xbox One,NA,M
+battletech,508798,59.95,action and adventure,PC,NA,M
+Sniper Elite 5,20589438,84.80,shooter,PlayStation 5,Multiplayer - TPS,MA
+Ghostwire: Tokyo,32874883,74,action and adventure,PlayStation 5,NA,M
+Ring Fit Adventure,293859784,99,sports,Nintendo Switch,fitness,G
+Mario & Sonic at the Olympic Games Tokyo 2020,23759854,64,sports,Nintendo Switch,olympics,G
+minecraft,4375987,40.45,action and adventure,PC,NA,G
+Red Dead Redemption 2,897958374,24.00,shooter,Xbox One,Multiplayer - TPS,MA
+Indie Pogo,197928334,14.99,combat,Nintendo Switch,platform fighter,NA
